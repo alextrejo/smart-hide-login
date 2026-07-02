@@ -1,0 +1,63 @@
+# Copyright (C) 2026 Smart Hide Login
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Hide Login 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hide-login\n"
+"POT-Creation-Date: 2024-01-01 00:00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-01-01 00:00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: smart-hide-login\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: classes/hideLogin.class.php:37
+#: classes/hideLoginMultisite.class.php:38
+#: classes/hideLoginAbstract.class.php:225
+msgid "Hide Login Settings"
+msgstr ""
+
+#: classes/hideLogin.class.php:38
+#: classes/hideLoginMultisite.class.php:39
+msgid "Hide Login"
+msgstr ""
+
+#: classes/hideLoginAbstract.class.php:116
+msgid "Something went wrong. Please try again later."
+msgstr ""
+
+#: classes/hideLoginAbstract.class.php:121
+msgid "My Site"
+msgstr ""
+
+#: classes/hideLoginAbstract.class.php:185
+msgid "Welcome to %s."
+msgstr ""
+
+#: classes/hideLoginAbstract.class.php:213
+msgid "Settings saved successfully."
+msgstr ""
+
+#: classes/hideLoginAbstract.class.php:215
+msgid "Slug submitted is the same as before Nothing to do."
+msgstr ""
+
+#: classes/hideLoginAbstract.class.php:218
+msgid "Please enter a valid slug."
+msgstr ""
+
+#: classes/hideLoginAbstract.class.php:230
+msgid "Login Page Slug"
+msgstr ""
+
+#: classes/hideLoginAbstract.class.php:233
+msgid "Enter the slug to use for accessing the login page (e.g., 'dashboard', 'admin', 'login')."
+msgstr ""
+
+msgid "<p>You need to select a Permalink structure in Settings > Permalinks for this plugin to work.</p><p><a href=\"%s\">Go Back</a> | <a href=\"%s\">Set Permalinks</a></p>"
+msgstr ""

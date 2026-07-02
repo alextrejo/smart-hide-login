@@ -1,0 +1,62 @@
+# Copyright (C) 2026 Smart Hide Login
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Hide Login 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/smart-hide-login\n"
+"POT-Creation-Date: 2024-01-01 00:00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-01-01 00:00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: smart-hide-login\n"
+
+#: classes/hideLogin.class.php:37
+#: classes/hideLoginMultisite.class.php:38
+#: classes/hideLoginAbstract.class.php:225
+msgid "Hide Login Settings"
+msgstr "Configurar Hide Login"
+
+#: classes/hideLogin.class.php:38
+#: classes/hideLoginMultisite.class.php:39
+msgid "Hide Login"
+msgstr "Hide Login"
+
+#: classes/hideLoginAbstract.class.php:116
+msgid "Something went wrong. Please try again later."
+msgstr "Algo salió mal. Por favor, inténtelo de nuevo más tarde."
+
+#: classes/hideLoginAbstract.class.php:121
+msgid "My Site"
+msgstr "Mi Sitio"
+
+#: classes/hideLoginAbstract.class.php:185
+msgid "Welcome to %s."
+msgstr "Bienvenido a %s."
+
+#: classes/hideLoginAbstract.class.php:213
+msgid "Settings saved successfully."
+msgstr "Configuración guardada correctamente."
+
+#: classes/hideLoginAbstract.class.php:215
+msgid "Slug submitted is the same as before Nothing to do."
+msgstr "El slug enviado es el mismo que antes. Nada que hacer."
+
+#: classes/hideLoginAbstract.class.php:218
+msgid "Please enter a valid slug."
+msgstr "Por favor, introduzca un slug válido."
+
+#: classes/hideLoginAbstract.class.php:230
+msgid "Login Page Slug"
+msgstr "Slug de la Página de Login"
+
+#: classes/hideLoginAbstract.class.php:233
+msgid "Enter the slug to use for accessing the login page (e.g., 'dashboard', 'admin', 'login')."
+msgstr "Introduzca el slug a usar para acceder a la página de login (ej., 'dashboard', 'admin', 'login')."
+
+msgid "<p>You need to select a Permalink structure in Settings > Permalinks for this plugin to work.</p><p><a href=\"%s\">Go Back</a> | <a href=\"%s\">Set Permalinks</a></p>"
+msgstr "<p>Necesita seleccionar una Estructura de Enlaces Permanentes en Ajustes > Enlaces Permanentes para que este plugin funcione.</p><p><a href=\"%s\">Regresar</a> | <a href=\"%s\">Enlaces Permanentes</a></p>"
